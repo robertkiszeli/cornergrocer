@@ -1,0 +1,22 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="open_text_size">14sp</dimen>
+    <dimen name="open_padding">8dp</dimen>
+    <dimen name="history_text_size">16sp</dimen>
+    <dimen name="history_padding_left">8dp</dimen>
+    <dimen name="history_padding_right">8dp</dimen>
+    <dimen name="name_padding_left">6dp</dimen>
+    <dimen name="name_padding_right">6dp</dimen>
+    <dimen name="name_text_size">32sp</dimen>
+    <dimen name="today_s_text_size">24sp</dimen>
+    <dimen name="today_s_elevation">2dp</dimen>
+    <dimen name="data_elevation">4dp</dimen>
+    <dimen name="current_data_margin_top">10dp</dimen>
+    <dimen name="current_data_margin_left">20dp</dimen>
+    <dimen name="current_data_margin_right">20dp</dimen>
+    <dimen name="current_data_text_size">16sp</dimen>
+    <dimen name="current_data_margin_top_land">10dp</dimen>
+    <dimen name="current_data_margin_left_land">10dp</dimen>
+    <dimen name="current_data_margin_right_land">10dp</dimen>
+</resources>

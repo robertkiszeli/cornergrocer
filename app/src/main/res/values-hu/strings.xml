@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sarki Fűszeres</string>
+    <string name="open_on">Nyitva : Hétfő-Vasárnap 8:00 - 17:00</string>
+    <string name="history_text">Sarki Fűszeres egy családi zöldséges már 1972 óta.minden nap mi kínáljuk a város legfrissebb zöldségeit és gyümölcsit.</string>
+    <string name="corner_grocer">Sarki Fűszeres</string>
+    <string name="today_s_special">Mai ajánlatunk</string>
+    <string name="adress">6000, Kecskemet, Március 15. u. 74.</string>
+    <string name="webpage">www.cornergrocer.com</string>
+    <string name="email">info@cornergrocer.com</string>
+    <string name="phone">+36/30-987-6543</string>
+    <string name="call_location">https://www.google.com/maps/search/loc:</string>
+    <string name="set_location_map">com.google.android.apps.maps</string>
+    <string name="call_web_page">http://www.cornergrocer.com/</string>
+    <string name="call_email">mailto:info@cornergrocer.com</string>
+    <string name="call_phone_number">tel:0036309876543</string>
+</resources>

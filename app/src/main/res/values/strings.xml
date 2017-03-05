@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Corner Grocer</string>
+    <string name="open_on">Open : Mon-Sun 8:00AM - 17:00PM</string>
+    <string name="history_text">Corner Grocer is a family greengrocer since 1972. Every day we offer the freshest fruit and vegetables in the city.</string>
+    <string name="corner_grocer">Corner Grocer</string>
+    <string name="today_s_special">Today\'s special</string>
+    <string name="adress">6000, Kecskemet, Március 15. u. 74.</string>
+    <string name="webpage">www.cornergrocer.com</string>
+    <string name="email">info@cornergrocer.com</string>
+    <string name="phone">+36/30-987-6543</string>
+    <string name="call_location">https://www.google.com/maps/search/loc:</string>
+    <string name="set_location_map">com.google.android.apps.maps</string>
+    <string name="call_web_page">http://www.cornergrocer.com/</string>
+    <string name="call_email">mailto:info@cornergrocer.com</string>
+    <string name="call_phone_number">tel:0036309876543</string>
+</resources>
